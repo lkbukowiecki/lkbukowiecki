@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lkbukowiecki
-Long story short before pandemic I messed around with Brain Computer Interfaces.
-This was my first "professional" programming experience.
-- 👀 I’m interested in being human.
-- 🌱 I’m currently learning Python, Kivy, etc.
+Programmer.
+- 👀 I’m interested in Brain Computer Interfaces.
+- 🌱 I’m currently learning Go, Elixir.
 - 💞️ I’m looking to collaborate on: I'm pretty open, but probably those BCIs I've mentioned.
 - 📫 How to reach me: mail.
 
